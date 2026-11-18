@@ -1,0 +1,23 @@
+{
+  "_resourceType": "scene",
+  "id": "e3160f27-58e1-4d17-bece-15a0ebb1e371",
+  "_index": 3,
+  "name": "Tela de derrota",
+  "backgroundId": "1e5f9d6a-bdbc-43e6-8c34-22f5bb5dea05",
+  "tilesetId": "",
+  "width": 20,
+  "height": 18,
+  "type": "POINTNCLICK",
+  "colorModeOverride": "none",
+  "paletteIds": [],
+  "spritePaletteIds": [],
+  "collisions": "",
+  "autoFadeSpeed": 1,
+  "symbol": "scene_4",
+  "x": 376,
+  "y": 472,
+  "script": [],
+  "playerHit1Script": [],
+  "playerHit2Script": [],
+  "playerHit3Script": []
+}

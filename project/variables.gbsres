@@ -1,0 +1,11 @@
+{
+  "_resourceType": "variables",
+  "variables": [
+    {
+      "id": "0",
+      "name": "Gravity (0=down 1=up)",
+      "symbol": "var_gravity_0_down_1_up_"
+    }
+  ],
+  "constants": []
+}
